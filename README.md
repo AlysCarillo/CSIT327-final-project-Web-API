@@ -1,6 +1,6 @@
 # CSIT327-final-project-Web-API
 
-# csit327-project-group-6  **QUIZ API**
+# Group 6 **QUIZ API**
 
 ## Entity Relationship Diagram
 
